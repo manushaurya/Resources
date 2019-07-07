@@ -16,4 +16,4 @@ Resources which I found helpful along the way.
 13. Explains Linux Kernels https://www.tldp.org/LDP/khg/HyperNews/get/tour/tour.html
 14. Place to explore virtual reality https://poly.google.com/
 15. Art of UNIX programming https://arp242.net/the-art-of-unix-programming/
-16. 
+16. Practice UNIX http://overthewire.org/wargames/bandit/bandit0.html 
