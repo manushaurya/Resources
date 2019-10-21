@@ -20,3 +20,4 @@ Resources which I found helpful along the way.
 17. Tutorial 1 on markdown https://ghost.org/blog/markdown/ 
 18. Tutorial 2 on markdown https://writefreely.org/docs/v0.10.0/writer/writing.md
 19. Git Guide https://rogerdudler.github.io/git-guide/
+20 SICP https://sarabander.github.io/sicp/html/index.xhtml
