@@ -22,3 +22,4 @@ Resources which I found helpful along the way.
 19. Git Guide https://rogerdudler.github.io/git-guide/
 20. SICP https://sarabander.github.io/sicp/html/index.xhtml
 21. CERN datasets http://opendata.cern.ch/search?page=1&size=20&type=Dataset
+22. Tensorflow tutorial https://www.tensorflow.org/tutorials/
