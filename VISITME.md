@@ -25,3 +25,5 @@ Resources which I found helpful along the way.
 22. Tensorflow tutorial https://www.tensorflow.org/tutorials/
 23. To do https://teachyourselfcs.com/
 24. Operating system development https://www.ops-class.org/
+25. This page collects links around papers that try to settle the "P versus NP" question https://www.win.tue.nl/~gwoegi/P-versus-NP.htm
+26. Resource on Myhill-nerode theorem [TOC]: https://www.cs.odu.edu/.../reg-lang/non-regularity.html
