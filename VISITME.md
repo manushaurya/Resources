@@ -27,3 +27,4 @@ Resources which I found helpful along the way.
 24. Operating system development https://www.ops-class.org/
 25. This page collects links around papers that try to settle the "P versus NP" question https://www.win.tue.nl/~gwoegi/P-versus-NP.htm
 26. Resource on Myhill-nerode theorem [TOC]: https://www.cs.odu.edu/.../reg-lang/non-regularity.html
+27. Resource that helps to build Linux from scratch https://www.linuxfromscratch.org/
